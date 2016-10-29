@@ -32,6 +32,7 @@ namespace CodeFirstNewDatabaseSample
                     Console.WriteLine(item.Name);
                 }
 
+                Console.WriteLine("bla bla car blog");
                 Console.WriteLine("Press any key to exit...");
                 Console.ReadKey();
             }
